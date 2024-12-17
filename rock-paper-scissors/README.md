@@ -1,4 +1,3 @@
-```markdown
 ### Problematic  
 The challenge is to create a program that determines the winner in a **Rock-Paper-Scissors game**. The game must include a **scoring system** to track points for two players over multiple rounds. The ultimate goal is to decide the overall winner based on the number of rounds won.  
 
@@ -92,4 +91,3 @@ By the end of the game:
 ---
 
 Happy coding! Focus on breaking down the problem and building the solution step by step. 🚀  
-```
