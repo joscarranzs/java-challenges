@@ -90,4 +90,4 @@ By the end of the game:
 
 ---
 
-Happy coding! Focus on breaking down the problem and building the solution step by step. 🚀  
+Have fun! Remember that this is just a proposed solution; the logic may vary for each of us. It's completely valid to solve it your own way, just make sure to follow good practices so your code is as optimized as possible.
