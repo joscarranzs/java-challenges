@@ -12,12 +12,3 @@ Before starting, ensure you meet the following considerations:
 - Install the necessary tools to **compile and run Java** (e.g., JDK, Maven).  
 
 ---
-
-### Tips for Success  
-- **Enjoy the process**: This is meant to be fun. Don’t get frustrated if you can’t find the solution right away. You can always refer to this repository for guidance.  
-- **Focus on your progress**: Avoid comparing yourself to others. Aim to improve daily and compete only with yourself.  
-
----
-
-### Explore and Learn  
-Start solving the challenges, explore the code, and **grow your skills** as you go. Remember, programming is a journey—**enjoy every step!** 🚀  
